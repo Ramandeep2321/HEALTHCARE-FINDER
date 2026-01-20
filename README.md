@@ -7,13 +7,12 @@ A centralized web-based platform built with PHP and MySQL to bridge the informat
 The **Health Care Portal** is a web-based application designed to bridge the information gap between patients and healthcare providers. In today's fragmented healthcare landscape, finding reliable information about hospitals, specific treatments, and costs can be challenging[cite: 14, 27]. [cite_start]This project aggregates this data into a user-friendly platform, empowering users to make informed decisions about their healthcare.
 
 ## 📋 Table of Contents
-- [Project Overview](#project-overview)
-- [Key Features](#key-features)
-- [Technology Stack](#technology-stack)
-- [Database Schema](#database-schema)
-- [Installation & Setup](#installation--setup)
-- [Future Scope](#future-scope)
-- [Contributors](#contributors)
+- [Project Overview]
+- [Key Features]
+- [Technology Stack]
+- [Database Schema]
+- [Installation & Setup]
+- [Future Scope]
 
 ## 🚀 Project Overview
 The primary objective of this portal is to create a centralized hub where users can search for hospitals based on specific diseases or medical departments[cite: 15, 31]. [cite_start]The system provides critical details such as hospital location, top doctors, and estimated minimum and maximum treatment costs.
