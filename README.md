@@ -66,5 +66,3 @@ This project is designed to run in a local environment using XAMPP.
 * **User Reviews:** Rating system for hospitals and doctors.
 * **Geolocation:** GPS integration to find nearby hospitals.
 * **Appointment Booking:** Direct booking functionality for patients.
-
-*Under the supervision of Dr. Pradip Kundu* 
