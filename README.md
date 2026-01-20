@@ -68,12 +68,4 @@ This project is designed to run in a local environment using XAMPP.
 * **Geolocation:** GPS integration to find nearby hospitals.
 * **Appointment Booking:** Direct booking functionality for patients.
 
-## 👥 Contributors
-This project was submitted as a Design Capstone Report by:
-
-* **Jivitesh Barik** (UCSE23029) 
-* **Ramandeep Pattnaik** (UCSE23044) 
-* **Saptarshi Banerjee** (UCSE23049) 
-* **Yogapriya Sahoo** (UCSE23065) 
-
 *Under the supervision of Dr. Pradip Kundu* 
